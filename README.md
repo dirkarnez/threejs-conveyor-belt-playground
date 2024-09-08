@@ -1,5 +1,5 @@
-[threejs-playground](https://dirkarnez.github.io/threejs-playground)
-====================================================================
+[threejs-conveyor-belt-playground](https://dirkarnez.github.io/threejs-conveyor-belt-playground)
+================================================================================================
 ```js
       ( function roundedRect( ctx, x, y, width, height, radius ) {
 
